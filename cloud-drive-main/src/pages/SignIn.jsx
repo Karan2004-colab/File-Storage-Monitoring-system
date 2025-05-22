@@ -24,10 +24,10 @@ export default function SignIn() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-4">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-500 via-green-500 to-blue-500 p-4">
       <div className="w-full max-w-md bg-white p-8 rounded-lg shadow-lg">
         <h1 className="text-2xl font-bold text-center mb-6 text-indigo-600">
-          File Storage and Sharing Application
+          File Storage monitoring system
         </h1>
 
         <h2 className="text-xl font-semibold mb-4 text-center text-gray-700">
