@@ -26,7 +26,7 @@ export default function App() {
   if (!user) return <SignIn />
 
   return (
-    <div className="min-h-screen bg-gradient-to-r from-indigo-100 via-green-100 to-blue-100 p-6 flex flex-col items-center">
+    <div className="min-h-screen bg-gradient-to-r from-indigo-100 via-purple-100 to-pink-100 p-6 flex flex-col items-center">
       <header className="w-full max-w-5xl flex justify-between items-center mb-6">
         <h1 className="text-3xl font-bold text-gray-700">File Storage monitoring system</h1>
         <button
